@@ -1,6 +1,6 @@
 # Syook_Assignment
 #compile the c program as
-gcc file_name.c -o file_name -lbluetooth
+gcc Syook_assgnment.c -o Syook_assignment -lbluetooth
 
 #Run the comipled program
-./file_name
+Syook_assignment
